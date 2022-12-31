@@ -1,1 +1,9 @@
 # python_hangman_game
+
+
+
+# Bu projedeki temel amacım kullanıcının belirleyeceği bir keliemyi tahmin etmeye çalışmasıdır. Kısaca bir adam asmaca oyunudur. Bu oyun ile arkadaşlarınız ile güzel vakitler geçirebilirsiniz.. Sistem ilk olarak kullanıcıdan tahmin edilecek kelimeyi istemektedir. Daha sonra yanlış tahminde bulunma hakkı sayısını yine sisteme kullanıcı verecektir. Kullanıcı kelimeyi belirledikten sonra harfleri girmeye başlar eğer ki harf doğru ise hakkınız yanamaz, eğer ki harf yanlış ise hakkınız yanmaktadır. ve hakkınız bittikten sonra otomatik olarak oyun biter ve kelimenin ne olduğu ekrana bastırılır. İyi eğlenceler.
+
+# My main goal in this project is to try to guess a word that the user will determine. In short, it is a hangman game. With this game, you can have a good time with your friends. The system first asks the user for the word to be guessed, then the user will give the number of wrong guesses to the system again. After the user determines the word, he starts to enter the letters if the letter is correct, your right cannot be burned, if the letter is wrong, your right is burned. and after your right is over, the game is over automatically and the word is printed on the screen. Have fun.
+
+# Mein Hauptziel in diesem Projekt ist es, zu versuchen, ein Wort zu erraten, das der Benutzer bestimmen wird. Kurz gesagt, es ist ein Henkerspiel. Mit diesem Spiel können Sie sich mit Ihren Freunden vergnügen. Das System fragt den Benutzer zuerst nach dem zu erratenden Wort, dann gibt der Benutzer dem System erneut die Anzahl der falschen Vermutungen an. Nachdem der Benutzer das Wort bestimmt hat, beginnt er mit der Eingabe der Buchstaben, wenn der Buchstabe richtig ist, kann Ihr Recht nicht verbrannt werden, wenn der Buchstabe falsch ist, wird Ihr Recht verbrannt. und nachdem Ihr Recht vorbei ist, ist das Spiel automatisch vorbei und das Wort wird auf dem Bildschirm gedruckt. Habe Spaß.
